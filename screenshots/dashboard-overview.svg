@@ -1,0 +1,25 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" fill="#F7F1E8"/>
+  <circle cx="121" cy="114" r="130" fill="#EBC1A8" fill-opacity="0.65"/>
+  <circle cx="1135" cy="611" r="150" fill="#B9DDD8" fill-opacity="0.7"/>
+  <rect x="70" y="58" width="1140" height="604" rx="36" fill="#FFFCF7" fill-opacity="0.9"/>
+  <text x="120" y="135" fill="#8D3A1F" font-family="Georgia, serif" font-size="24" letter-spacing="3">PERSONAL FINANCE SNAPSHOT</text>
+  <text x="120" y="205" fill="#1F1B18" font-family="Georgia, serif" font-size="52">Track income and expenses</text>
+  <text x="120" y="255" fill="#1F1B18" font-family="Georgia, serif" font-size="52">without losing the big picture.</text>
+  <rect x="120" y="318" width="230" height="120" rx="24" fill="#FFF4EE"/>
+  <rect x="372" y="318" width="230" height="120" rx="24" fill="#EFF9F7"/>
+  <rect x="624" y="318" width="230" height="120" rx="24" fill="#FFF0F0"/>
+  <rect x="876" y="318" width="230" height="120" rx="24" fill="#F4F0FF"/>
+  <text x="150" y="360" fill="#6C625A" font-family="Trebuchet MS, sans-serif" font-size="20">Current Balance</text>
+  <text x="150" y="407" fill="#18756C" font-family="Trebuchet MS, sans-serif" font-size="34">₹48,600</text>
+  <text x="402" y="360" fill="#6C625A" font-family="Trebuchet MS, sans-serif" font-size="20">Total Income</text>
+  <text x="402" y="407" fill="#18756C" font-family="Trebuchet MS, sans-serif" font-size="34">₹74,800</text>
+  <text x="654" y="360" fill="#6C625A" font-family="Trebuchet MS, sans-serif" font-size="20">Total Expense</text>
+  <text x="654" y="407" fill="#B43C3C" font-family="Trebuchet MS, sans-serif" font-size="34">₹26,200</text>
+  <text x="906" y="360" fill="#6C625A" font-family="Trebuchet MS, sans-serif" font-size="20">Transactions</text>
+  <text x="906" y="407" fill="#4C3E2F" font-family="Trebuchet MS, sans-serif" font-size="34">18</text>
+  <rect x="120" y="480" width="986" height="122" rx="24" fill="#FFFFFF"/>
+  <text x="154" y="530" fill="#8D3A1F" font-family="Trebuchet MS, sans-serif" font-size="18">Responsive dashboard mockup for README screenshot slot</text>
+  <text x="154" y="568" fill="#6C625A" font-family="Trebuchet MS, sans-serif" font-size="28">Replace with an actual running app screenshot before submission.</text>
+</svg>
+
